@@ -10,8 +10,7 @@
 
 下面展示两张截图
 <center class ='img'>
-<img title="派对程序运行效果" src="./Screenshot_20231220_204020992_视频.jpg" width="45%">
-<img title="派对程序运行效果" src="./Screenshot_20231220_204043260_视频.jpg" width="45%">
+<img title="派对程序运行效果" src="./Screenshot_20231220_204020992_视频.jpg" width="40%"><img title="派对程序运行效果" src="./Screenshot_20231220_204043260_视频.jpg" width="40%">
 </center>
 
 
