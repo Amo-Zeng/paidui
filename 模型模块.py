@@ -10,7 +10,7 @@ from threading import Thread
 from transformers import TextIteratorStreamer
 
 #model_name = '/media/amo/e/.cache/models--mosaicml--mpt-7b-8k/snapshots/539960c3beb28496cee315cbe1fae3b6aa655837/'
-model_name = '/media/amo/e/chat/openchat_3.5/'
+model_name = 'openchat/openchat_3.5'
 resume_from_checkpoint='./微调阿福/'
 
 #device = 'cuda'
